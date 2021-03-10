@@ -13,7 +13,7 @@ b) el nombre y edad de la mujer soltera mas joven.
 c) cuanto sale el viaje total sin descuento.
 d) si hay mas del 50% de los pasajeros que tiene mas de 60 años , el precio final tiene un descuento del 25%, que solo mostramos si corresponde.*/
 	
-
+///juli
 	let nombre;
 	let estado;
 	let edad;
